@@ -1,0 +1,78 @@
+C:\dev\_now\LUISapp\LUISapp\bin\Bot Application1.dll.config
+C:\dev\_now\LUISapp\LUISapp\bin\Bot Application1.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Bot Application1.pdb
+C:\dev\_now\LUISapp\LUISapp\bin\Autofac.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Chronic.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Bot.Builder.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Bot.Connector.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Newtonsoft.Json.dll
+C:\dev\_now\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\_now\LUISapp\LUISapp\bin\System.Net.Http.Formatting.dll
+C:\dev\_now\LUISapp\LUISapp\bin\System.Web.Http.dll
+C:\dev\_now\LUISapp\LUISapp\bin\System.Web.Http.WebHost.dll
+C:\dev\_now\LUISapp\LUISapp\bin\Autofac.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Bot.Builder.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Bot.Connector.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\dev\_now\LUISapp\LUISapp\bin\Newtonsoft.Json.xml
+C:\dev\_now\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\dev\_now\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\dev\_now\LUISapp\LUISapp\bin\System.Net.Http.Formatting.xml
+C:\dev\_now\LUISapp\LUISapp\bin\System.Web.Http.xml
+C:\dev\_now\LUISapp\LUISapp\bin\System.Web.Http.WebHost.xml
+C:\dev\_now\LUISapp\LUISapp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\dev\_now\LUISapp\LUISapp\obj\Release\Bot Application1.dll
+C:\dev\_now\LUISapp\LUISapp\obj\Release\Bot Application1.pdb
+C:\dev\_now\LUISapp\LUISapp\obj\Release\LUISapp.csprojResolveAssemblyReference.cache
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Bot Application1.dll.config
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Bot Application1.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Bot Application1.pdb
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Autofac.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Chronic.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Bot.Builder.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Bot.Connector.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Newtonsoft.Json.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Net.Http.Formatting.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Web.Http.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Web.Http.WebHost.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Autofac.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Bot.Builder.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Bot.Connector.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\Newtonsoft.Json.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Net.Http.Formatting.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Web.Http.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\System.Web.Http.WebHost.xml
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\LUISapp.csprojResolveAssemblyReference.cache
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\Bot Application1.dll
+C:\dev\GITHUB\BOT\LUISapp\LUISapp\obj\Release\Bot Application1.pdb
